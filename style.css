@@ -1,0 +1,40 @@
+html,body{
+ margin: 0;
+ padding: 0;
+ box-sizing: 0;
+}
+.conteiner{
+    box-sizing: border-box;
+ width: 366px;
+ height: 420px;
+ margin-top: 285px;
+ margin-left: 537px;
+ background-color: #FAF4EF;
+ position: absolute;
+ border-radius: 0px 0px 0px 50px;
+}
+img{
+    position: absolute;
+ width: 231.13px;
+ height: 285px;
+ margin-top: 170px;
+ margin-left: 67px;
+ 
+}
+h1{
+    position: absolute;  
+ width: 289px;
+ height: 54px;
+ margin-left: 46.11px;
+ margin-top: 43px;
+ color: rgba(75, 75, 75, 1);
+}
+span{
+ position: absolute;   
+width: 178px;
+height: 41px;
+margin-left: 46px;
+margin-top: 93px;
+color:rgba(115, 115, 115, 1)
+
+}
